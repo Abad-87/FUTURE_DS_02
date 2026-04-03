@@ -1,4 +1,23 @@
-# Comprehensive Customer Churn Analysis 
+<div align="center">
+
+<!-- Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0c447c&height=200&section=header&text=Customer%20Churn%20Analysis&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=End-to-end%20Business%20Intelligence%20Dashboard&descAlignY=58&descSize=16"/>
+
+<!-- Badges -->
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/DAX-185fa5?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Records-9%2C994-0c447c?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Revenue-$2.30M-1d9e75?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Period-2014--2017-ba7517?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Customers-793-a32d2d?style=flat-square"/>
+</p>
+
+</div>
 
 ## Key Insights 
 1. **High Customer Churn Rate**: Understand the factors leading to a 25% churn rate in the last quarter.
