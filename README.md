@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0c447c&height=200&section=header&text=Customer%20Churn%20Analysis&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=End-to-end%20Business%20Intelligence%20Dashboard&descAlignY=58&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0d8c15&height=200&section=header&text=Customer%20Churn%20Analysis&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=End-to-end%20Business%20Intelligence%20Dashboard&descAlignY=58&descSize=16"/>
 
 <!-- Badges -->
 <p>
