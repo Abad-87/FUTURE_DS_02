@@ -10,12 +10,6 @@
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/Records-9%2C994-0c447c?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Revenue-$2.30M-1d9e75?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Period-2014--2017-ba7517?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Customers-793-a32d2d?style=flat-square"/>
-</p>
 
 </div>
 
